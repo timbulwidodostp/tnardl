@@ -2,4 +2,4 @@
 1
 2
 3
-p robnova Calculates two robust ANOVA statistics, Welch's and Brown-Forsythe's Use robnova With STATA 19
+p tnardl Threshold Non-linear ARDL Estimator with Automatic Grid Search Use tnardl With STATA 19
