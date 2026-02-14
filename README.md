@@ -1,6 +1,8 @@
 # tnardl
 Threshold Non-linear ARDL Estimator with Automatic Grid Search Use tnardl With STATA 19
 
+https://www.youtube.com/watch?v=1ntxshuMlvU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
